@@ -1,0 +1,58 @@
+header{
+	color:#000000;
+	font-size: 100px;
+	text-align:center;
+	text-decoration: bold;
+}
+body{
+	
+				color: #690F8C;
+				font-size: 1.2em;
+				
+				margin-top: 100px;
+				margin-left: 100px;
+				margin-bottom: 100px;
+				margin-right: 100px;
+				border: solid 50px;
+				padding: 30px;
+				
+			}
+			a {
+				color: #000000;
+			}
+			h1{
+				font-family: "Raleway";
+				font-size: 20px;
+				color: #000000;
+				text-align: center;
+			}
+			h2{
+				color: #004953;
+				text-align: right;
+			}
+			p {
+				color:#003829;
+			}
+	table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+			#lists {
+    padding 10px 10px 10px 170px; /* this keeps the text from overflowing around the sidebar */
+margin-left:
+    100px;
+    font-size:
+    1.2em;
+}
